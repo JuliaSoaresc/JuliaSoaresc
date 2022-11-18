@@ -30,5 +30,3 @@ Contacts
   <a href="https://www.linkedin.com/in/julia-soares-costa-12b55022a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 
-</div>
- ![Snake animation](https://github.com/JuliaSoaresc/JuliaSoaresc/blob/output/github-contribution-grid-snake.svg)
