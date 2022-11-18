@@ -1,5 +1,5 @@
 ### Olá! Eu sou a JuliaSoaresc 👋
-<img align="center" src="https://github.com/JuliaSoaresc/JuliaSoaresc/blob/f2dd74d9983174247608cddef46ac4f76dedbac3/github-header-image.png"/><a/>
+<img align="center" src="https://github.com/JuliaSoaresc/JuliaSoaresc/blob/bd7bda9e80851d2aef1ba3e746818bd1b0870b86/github-header-image%20(1).png"/><a/>
 
 
 About me
