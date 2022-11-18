@@ -1,4 +1,7 @@
 ### Olá! Eu sou a JuliaSoaresc 👋
+<img align="center" src="https://github.com/JuliaSoaresc/JuliaSoaresc/blob/f2dd74d9983174247608cddef46ac4f76dedbac3/github-header-image.png"/><a/>
+
+
 About me
 - 📚 I'm a student in the Bachelor's degree in Computer Science.
 
